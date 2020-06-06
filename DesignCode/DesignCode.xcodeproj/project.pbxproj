@@ -14,6 +14,7 @@
 		CF8ED4F6248942CB00739B14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF8ED4F5248942CB00739B14 /* Preview Assets.xcassets */; };
 		CF8ED4F9248942CB00739B14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF8ED4F7248942CB00739B14 /* LaunchScreen.storyboard */; };
 		CF8ED501248BC75200739B14 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8ED500248BC75200739B14 /* MenuView.swift */; };
+		CF8ED503248BE34F00739B14 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8ED502248BE34F00739B14 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CF8ED4F8248942CB00739B14 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF8ED4FA248942CB00739B14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF8ED500248BC75200739B14 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		CF8ED502248BE34F00739B14 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CF8ED4EE248942C800739B14 /* SceneDelegate.swift */,
 				CF8ED4F0248942C800739B14 /* ContentView.swift */,
 				CF8ED500248BC75200739B14 /* MenuView.swift */,
+				CF8ED502248BE34F00739B14 /* Home.swift */,
 				CF8ED4F2248942CB00739B14 /* Assets.xcassets */,
 				CF8ED4F7248942CB00739B14 /* LaunchScreen.storyboard */,
 				CF8ED4FA248942CB00739B14 /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				CF8ED4ED248942C800739B14 /* AppDelegate.swift in Sources */,
 				CF8ED501248BC75200739B14 /* MenuView.swift in Sources */,
+				CF8ED503248BE34F00739B14 /* Home.swift in Sources */,
 				CF8ED4EF248942C800739B14 /* SceneDelegate.swift in Sources */,
 				CF8ED4F1248942C800739B14 /* ContentView.swift in Sources */,
 			);
